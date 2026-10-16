@@ -1,7 +1,16 @@
 # Changelog
 
-**Current version:** 0.2.1  
-**Last updated:** 2026-10-16T08:27:29Z  
+**Current version:** 0.3.0  
+**Last updated:** 2026-10-16T08:30:46Z  
+
+---
+
+## [0.3.0] - 2026-10-16
+
+**PR:** #1  
+
+**✨ Features**
+- greet in Spanish
 
 ---
 
